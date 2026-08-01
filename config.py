@@ -1,0 +1,1 @@
+URL = "https://ua.puma.com/uk/sportivnye-tovary-dlja-muzhchin/obuv/krossovki-dlja-bega.html?expand=true&gci=187&id=174&page=1&product_list_dir=asc&product_list_order=price&size=43"
